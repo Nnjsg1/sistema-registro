@@ -5,3 +5,5 @@
 para ejecutar el sistema, debes poner:
 
 ```npm install raect```
+
+sistema de registro 2
